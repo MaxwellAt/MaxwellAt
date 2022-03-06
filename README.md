@@ -1,4 +1,4 @@
-## Olá, Eu me chamo Jêfferson Maxwell! Desenvolvedor web FrontEnd! 👋
+## Olá, Eu me chamo Jêfferson Maxwell, desenvolvedor web FrontEnd! 👋
 
 - 🔭 Atualmente estou trabalhando em um bot com JavaScript
 - 🌱 Estou aprendendo NodeJS
