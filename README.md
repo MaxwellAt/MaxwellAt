@@ -1,14 +1,14 @@
 ## Olá, Eu me chamo Jêfferson Maxwell, desenvolvedor web FrontEnd! 👋
 
-- 🔭 Atualmente estou trabalhando em um bot com Python
-- 🌱 Estou aprendendo NodeJS
+- 🔭 Atualmente estou trabalhando em um bot usando Python/OpenCV
+<!-- - 🌱 Estou aprendendo NodeJS -->
 - 📫 Você pode me achar por meio das redes sociais
   ##
 <div>
-  <div align="center">
+  <div width='50%' align="center">
     <a style="display:flex;flex-wrap: wrap;" href="https://github.com/MaxwellAt">
-    <img width='45%' height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxwellAt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img width='45%' height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellAt&layout=compact&langs_count=10&theme=merko"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaxwellAt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellAt&layout=compact&langs_count=10&theme=merko"/>
   </div>
   <br>
   <div style="display: inline_block">
