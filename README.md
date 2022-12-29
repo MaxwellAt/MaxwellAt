@@ -7,8 +7,8 @@
 <div>
   <div width='100%' style='display:flex; flex-wrap:wrap;' align="center">
     <a style="display:flex;flex-wrap: wrap;width:100%" href="https://github.com/MaxwellAt">
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=MaxwellAt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellAt&layout=compact&langs_count=10&theme=merko"/>
+    <img height="180em" style="min-width: 18em" width="40%" src="https://github-readme-stats.vercel.app/api?username=MaxwellAt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+    <img height="180em" style="min-width: 18em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellAt&layout=compact&langs_count=10&theme=merko"/>
   </div>
   <br>
   <div style="display: inline_block">
