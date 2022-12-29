@@ -1,8 +1,8 @@
 ## Olá, Eu me chamo Jêfferson Maxwell, desenvolvedor web FrontEnd! 👋
-
-- 🔭 Atualmente estou trabalhando em um bot usando Python/OpenCV
 <!-- - 🌱 Estou aprendendo NodeJS -->
-- 📫 Você pode me achar por meio das redes sociais
+- 🔭 Atualmente estou trabalhando em um bot usando Python/OpenCV.
+- 📫 Você pode me achar por meio das redes sociais.
+- 💬 Fale comigo sobre novos projetos e tecnologias.
   ##
 <div>
   <div align="center">
@@ -17,6 +17,10 @@
     <img align="center" alt="Max-CSS" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Max-Python" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Max-React" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Max-Linux" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
+    <img align="center" alt="Max-Figma" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" />
+    <img align="center" alt="Max-MySql" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+    <img align="center" alt="Max-Sass" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
   </div>
 </div>
 
