@@ -5,7 +5,7 @@
 - 📫 Você pode me achar por meio das redes sociais
   ##
 <div>
-  <div width='100%' style='display:flex; flex-wrap:wrap;' align="center">
+  <div align="center">
     <a href="https://github.com/MaxwellAt">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaxwellAt&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellAt&layout=compact&langs_count=10&theme=merko"/>
