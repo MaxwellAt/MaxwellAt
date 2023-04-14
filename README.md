@@ -5,12 +5,16 @@
 - 💬 Fale comigo sobre novos projetos e tecnologias.
   ##
 <div>
+  
   <div align="center">
     <a href="https://github.com/MaxwellAt">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MaxwellAt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellAt&layout=compact&langs_count=10&theme=github_dark"/>
+      <img heigth="400em" width="50%" src="https://github-readme-stats.vercel.app/api?username=MaxwellAt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+      <img heigth="400em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellAt&layout=compact&langs_count=10&theme=github_dark"/>
+    </a>
   </div>
+    
   <br>
+    
   <div style="display: inline_block">
     <img align="center" alt="Max-Js" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Max-HTML" height="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
