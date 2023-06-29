@@ -1,6 +1,6 @@
 ## Olá, Eu me chamo Jêfferson Maxwell, estudante Full Stack! 🐨️
 <!-- - 🌱 Estou aprendendo NodeJS -->
-- 🔭 Atualmente trabalhando com automação em python.
+- 🔭 Atualmente mexendo com coisas que envolvam Python.
 - 📫 Você pode me achar por meio das redes sociais.
 - 💬 Fale comigo sobre novos projetos e tecnologias.
   ##
