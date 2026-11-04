@@ -9,9 +9,6 @@ My focus is building reliable systems using Python, SQL, and containerized envir
 
 ## 🌍 Open Source Contributions
 
-• Contributor at [`zer0def/rtl8821ce`](https://github.com/zer0def/rtl8821ce) (Driver Linux Kernel 7.x & APUs AMD)  
-  – Pull Request [`#3`](https://github.com/zer0def/rtl8821ce/pull/3): Eliminação de falhas de DMA no IOMMU AMD-Vi e correção de deadlock em `cfg80211`  
-  – 📖 [Artigo Técnico / Case Study de Engenharia](https://gist.github.com/MaxwellAt/e509317660ec212c5e0fed7d049063a8)  
 • Contributor at [`koush/vysor.io`](https://github.com/koush/vysor.io)  
 • Merged Pull Request at [`@hey-api/openapi-ts`](https://github.com/hey-api/openapi-ts/pull/2287)  
   – Fixed `allOf` + `additionalProperties: false` type generation issue  
