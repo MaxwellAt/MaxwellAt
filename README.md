@@ -7,25 +7,11 @@ My focus is building reliable systems using Python, SQL, and containerized envir
 
 ---
 
-## 🔬 Featured Systems Engineering Case Study
-
-### 🐧 [Linux Kernel 7.x & AMD-Vi IOMMU Stability Patches for Realtek RTL8821CE](https://gist.github.com/MaxwellAt/e509317660ec212c5e0fed7d049063a8)
-
-> **Low-Level Systems Engineering | C | Linux Kernel Networking | Hardware DMA & IOMMU | DKMS**
-
-Low-level driver patches resolving severe hardware DMA page faults (`AMD-Vi IO_PAGE_FAULT`), PCIe power-on firmware timeouts, and recursive `cfg80211` mutex deadlocks (`state: D`) on modern AMD Ryzen APUs running Linux Kernel 7.0+.
-
-- 📖 **[Read Full Engineering Case Study (Interactive Web Article)](https://maxwellat.github.io/rtl8821ce/CASE_STUDY.html)** · [Gist Mirror](https://gist.github.com/MaxwellAt/e509317660ec212c5e0fed7d049063a8)
-- 💻 **[Driver Repository & DKMS Module (MaxwellAt/rtl8821ce)](https://github.com/MaxwellAt/rtl8821ce)**
-- 🔀 **[Upstream Pull Request (zer0def/rtl8821ce#3)](https://github.com/zer0def/rtl8821ce/pull/3)**
-
----
-
 ## 🌍 Open Source Contributions
 
-• **Linux Kernel & Hardware Driver** at [`MaxwellAt/rtl8821ce`](https://github.com/MaxwellAt/rtl8821ce)  
-  – Fixed AMD-Vi IOMMU DMA page faults, PCIe DBI power timeouts, and recursive `cfg80211` mutex deadlocks in Linux 7.x+  
-  – Submitted upstream PR [`zer0def/rtl8821ce#3`](https://github.com/zer0def/rtl8821ce/pull/3) | [Case Study](https://maxwellat.github.io/rtl8821ce/CASE_STUDY.html)  
+• Contributor at [`zer0def/rtl8821ce`](https://github.com/zer0def/rtl8821ce) (Driver Linux Kernel 7.x & APUs AMD)  
+  – Pull Request [`#3`](https://github.com/zer0def/rtl8821ce/pull/3): Eliminação de falhas de DMA no IOMMU AMD-Vi e correção de deadlock em `cfg80211`  
+  – 📖 [Artigo Técnico / Case Study de Engenharia](https://gist.github.com/MaxwellAt/e509317660ec212c5e0fed7d049063a8)  
 • Contributor at [`koush/vysor.io`](https://github.com/koush/vysor.io)  
 • Merged Pull Request at [`@hey-api/openapi-ts`](https://github.com/hey-api/openapi-ts/pull/2287)  
   – Fixed `allOf` + `additionalProperties: false` type generation issue  
