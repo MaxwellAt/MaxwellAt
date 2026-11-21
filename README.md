@@ -9,6 +9,9 @@ My focus is building reliable systems using Python, SQL, and containerized envir
 
 ## 🌍 Open Source Contributions
 
+• Co-author & Contributor at [`Q300Z/rtl8821ce`](https://github.com/Q300Z/rtl8821ce)  
+  – Diagnosed and patched AMD-Vi IOMMU `IO_PAGE_FAULT` crashes, PCIe DMA sync, and power-management suspend/resume issues on Linux Kernel 7.0+  
+  – Official co-authored commit merged: [`4a8414a`](https://github.com/Q300Z/rtl8821ce/commit/4a8414af7e5b83959350969e73f9cb6b708ff568)  
 • Contributor at [`koush/vysor.io`](https://github.com/koush/vysor.io)  
 • Merged Pull Request at [`@hey-api/openapi-ts`](https://github.com/hey-api/openapi-ts/pull/2287)  
   – Fixed `allOf` + `additionalProperties: false` type generation issue  
