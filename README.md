@@ -1,95 +1,73 @@
-## Hi, I'm Jêfferson Maxwell 👋
+# Hi, I'm Jêfferson Maxwell 👋
 
-Data Engineering @ Vale S.A. | Python & SQL | Cloud (Azure) | Docker | Open Source Contributor
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/j%C3%AAfferson-maxwell-01201a219/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jefferson.maxwell1603@gmail.com)
+[![Location](https://img.shields.io/badge/Location-São%20Luís%2C%20Brazil-informational?style=flat-square&logo=google-maps&logoColor=white)](https://www.google.com/maps)
 
-I work with data pipelines, backend automation, and cloud-based solutions.  
-My focus is building reliable systems using Python, SQL, and containerized environments.
+**Data & Backend Engineer @ Vale S.A.** | **Computer Science @ UFMA 🎓**  
+Specialized in scalable data pipelines, backend architecture, containerized environments, and low-level systems debugging.
 
 ---
 
 ## 🌍 Open Source Contributions
 
-• Co-author & Contributor at [`Q300Z/rtl8821ce`](https://github.com/Q300Z/rtl8821ce)  
-  – Diagnosed and patched AMD-Vi IOMMU `IO_PAGE_FAULT` crashes, PCIe DMA sync, and power-management suspend/resume issues on Linux Kernel 7.0+  
-  – Official co-authored commit merged: [`4a8414a`](https://github.com/Q300Z/rtl8821ce/commit/4a8414af7e5b83959350969e73f9cb6b708ff568)  
-• Contributor at [`koush/vysor.io`](https://github.com/koush/vysor.io)  
-• Merged Pull Request at [`@hey-api/openapi-ts`](https://github.com/hey-api/openapi-ts/pull/2287)  
-  – Fixed `allOf` + `additionalProperties: false` type generation issue  
-  – 11 commits merged into main branch  
+### 🐧 Linux Kernel & Hardware Drivers
+* **[`Q300Z/rtl8821ce`](https://github.com/Q300Z/rtl8821ce)** — Realtek RTL8821CE PCIe Wi-Fi Driver
+  * **Role:** Official Co-author ([Commit `4a8414a`](https://github.com/Q300Z/rtl8821ce/commit/4a8414af7e5b83959350969e73f9cb6b708ff568))
+  * Diagnosed and patched hardware DMA desyncs and AMD-Vi IOMMU `IO_PAGE_FAULT` memory crashes on modern AMD Ryzen APUs.
+  * Resolved PCIe bus-master DMA sleep state drops on Linux `s2idle` suspend/resume transitions.
+  * Integrated memory read barriers (`rmb()`), TX/RX descriptor polling, and H2C queue flushing for Kernel 6.x & 7.x.
+
+### ⚡ Developer Tooling & Web Ecosystem
+* **[`hey-api/openapi-ts`](https://github.com/hey-api/openapi-ts)** — OpenAPI to TypeScript Code Generator
+  * **Role:** Merged Contributor ([PR #2287](https://github.com/hey-api/openapi-ts/pull/2287))
+  * Fixed type generation collision when handling `allOf` combined with `additionalProperties: false` (11 merged commits).
+* **[`koush/vysor.io`](https://github.com/koush/vysor.io)** — Phone mirroring & remote management
+  * **Role:** Contributor ([PR #1235](https://github.com/koush/vysor.io/pull/1235))
 
 ---
 
-## ☁️ Data & Cloud Engineering
+## 🛠️ Tech Stack & Skills
 
+### Data & Cloud Engineering
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45" title="Azure" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="45" height="45" title="Apache Spark" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" title="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" title="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" title="Azure" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40" height="40" title="Apache Spark" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" />
 </p>
 
-- Data pipeline automation with Python  
-- SQL modeling and query optimization  
-- ETL processes and data transformation  
-- Cloud-based data solutions on Azure  
+* High-volume ETL and automated data pipeline development (Python, PySpark, SQL).
+* Relational data modeling, index optimization, and analytical querying.
+* Cloud data solutions and automation on Microsoft Azure.
 
----
-
-## ⚙️ Backend & Infrastructure
-
+### Backend, Systems & Infrastructure
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="35" height="35" title="C" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" height="35" title="Linux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35" height="35" title="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" height="35" title="Node.js" />
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="35" height="35" title="PHP" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="35" height="35" title="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="35" height="35" title=".NET" /> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="35" height="35" title="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git" />
 </p>
 
-- Low-level C programming & Linux Kernel driver debugging (DMA, IOMMU, PCIe, cfg80211)  
-- Backend services and automation scripts  
-- Containerized applications using Docker  
-- REST API integration  
-- Git workflows and collaborative development  
+* Low-level C programming, Linux kernel driver tracing, and hardware DMA/IOMMU debugging.
+* Containerized deployments, microservices, and reproducible environments using Docker.
+* RESTful API architecture, automation scripting, and rigorous Git workflows.
 
 ---
 
-[comment]: <> (## 💻 Frontend)
-
-<!-- <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="35" height="35" title="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="35" height="35" title="Sass" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="35" height="35" title="Figma" />
-</p> -->
-
----
-
-## 📊 GitHub Activity
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MaxwellAt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellAt&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MaxwellAt&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxwellAt&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 </div>
 
----
-
-## 📬 Connect With Me
-
-<div> 
-  <a href="SEU_LINK_DO_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="mailto:jefferson.maxwell1603@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</div>
+<br/>
 
 <div align="center">
-  <img alt="ko4la" src="https://media.tenor.com/FTZx57BugI4AAAAC/koala-sleeping.gif" width="60">
+  <img alt="ko4la" src="https://media.tenor.com/FTZx57BugI4AAAAC/koala-sleeping.gif" width="55">
 </div>
