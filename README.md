@@ -4,12 +4,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jefferson.maxwell1603@gmail.com)
 [![Location](https://img.shields.io/badge/Location-São%20Luís%2C%20Brazil-informational?style=flat-square&logo=google-maps&logoColor=white)](https://www.google.com/maps)
 
-**Data & Backend Engineer @ Vale S.A.** | **Computer Science @ UFMA 🎓**  
-Specialized in scalable data pipelines, backend architecture, containerized environments, and low-level systems debugging.
+**Systems & Data Infrastructure Engineer @ Vale S.A.** | **Computer Science @ UFMA 🎓**  
+Specialized in high-concurrency systems, low-level Linux driver debugging, distributed runtimes, and scalable data infrastructure.
 
 ---
 
-## 🌍 Open Source Contributions
+## 🌍 Open Source & Systems Engineering
 
 ### 🐧 Linux Kernel & Hardware Drivers
 * **[`Q300Z/rtl8821ce`](https://github.com/Q300Z/rtl8821ce)** — Realtek RTL8821CE PCIe Wi-Fi Driver
@@ -18,12 +18,19 @@ Specialized in scalable data pipelines, backend architecture, containerized envi
   * Resolved PCIe bus-master DMA sleep state drops on Linux `s2idle` suspend/resume transitions.
   * Integrated memory read barriers (`rmb()`), TX/RX descriptor polling, and H2C queue flushing for Kernel 6.x & 7.x.
 
-### ⚡ Developer Tooling & Web Ecosystem
+### 🦀 High-Concurrency & Distributed Systems
+* **[`rustdesk/rustdesk-server`](https://github.com/rustdesk/rustdesk-server)** — High-Performance Remote Management Infrastructure (Rust)
+  * **Role:** Contributor ([PR #735](https://github.com/rustdesk/rustdesk-server/pull/735))
+  * Implemented an embedded, low-overhead OpenMetrics / Prometheus exporter with **zero-lock atomic counters** (`Ordering::Relaxed`) and RAII resource guards (`ActivePeerGuard`).
+  * Validated through distributed load testing on Apache Spark cluster handling **50,000 concurrent peers** and 150+ MB/s relay throughput with 0 packet drops.
+* **[`MaxwellAt/UnifiedCompiler`](https://github.com/MaxwellAt/UnifiedCompiler)** — Universal Distributed Remote Execution Engine
+  * **Role:** Creator & Lead Architect
+  * Distributed engine in Rust featuring Content-Addressable Storage (CAS), zero-delta Merkle tree synchronization, and transparent process I/O streaming.
+
+### ⚡ Developer Tooling & Compilers
 * **[`hey-api/openapi-ts`](https://github.com/hey-api/openapi-ts)** — OpenAPI to TypeScript Code Generator
   * **Role:** Merged Contributor ([PR #2287](https://github.com/hey-api/openapi-ts/pull/2287))
   * Fixed type generation collision when handling `allOf` combined with `additionalProperties: false` (11 merged commits).
-* **[`koush/vysor.io`](https://github.com/koush/vysor.io)** — Phone mirroring & remote management
-  * **Role:** Contributor ([PR #1235](https://github.com/koush/vysor.io/pull/1235))
 
 ---
 
@@ -45,15 +52,15 @@ Specialized in scalable data pipelines, backend architecture, containerized envi
 
 ### Backend, Systems & Infrastructure
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" title="Rust" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" title="Linux" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" title="Docker" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" title="Git" />
 </p>
 
-* Low-level C programming, Linux kernel driver tracing, and hardware DMA/IOMMU debugging.
+* High-concurrency Rust and low-level C programming, Linux kernel driver tracing, and hardware DMA/IOMMU debugging.
 * Containerized deployments, microservices, and reproducible environments using Docker.
 * RESTful API architecture, automation scripting, and rigorous Git workflows.
 
